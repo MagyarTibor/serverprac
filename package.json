@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "server-is-on-react-magyartibor",
+  "description": "It's not always so easy in Codecool to follow the students status.\r We can lose in the hundreds of names and statuses, so CC ask students to help with the management.\r You have to create an API that manage the json files where the students data is in and make endpoints for output.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodecoolGlobal/server-is-on-react-MagyarTibor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodecoolGlobal/server-is-on-react-MagyarTibor/issues"
+  },
+  "homepage": "https://github.com/CodecoolGlobal/server-is-on-react-MagyarTibor#readme"
+}
